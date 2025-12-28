@@ -1,3 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://Alex-G-Strong.github.io/HugoBasedNZBlog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My NZ Blog'
+theme = 'PaperMod'
+
+[params]
+    defaultTheme = "auto" # automatically switches between dark/light mode
+    showCodeCopyButtons = true
