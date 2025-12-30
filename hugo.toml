@@ -2,6 +2,8 @@ baseURL = 'https://Alex-G-Strong.github.io/HugoBasedNZBlog/'
 languageCode = 'en-us'
 title = 'My NZ Blog'
 theme = 'PaperMod'
+canonifyURLs = true
+relativeURLs = true
 
 [params]
     defaultTheme = "auto" # automatically switches between dark/light mode
