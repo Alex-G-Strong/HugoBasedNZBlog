@@ -1,0 +1,43 @@
+- [ ] log everything in the gear list
+	- [ ] then send to will
+	- [ ] inlcude prices for expensive items
+- [ ] Wash Cloths
+	- [ ] wash down stuff
+		- using tide and zum detergent in the sink in the art room
+			- agitate it and let it sit
+			- then drain and rinse the shit out of it and let it dry outside
+	- [ ] cold water wash for everything else
+		- cashmere hung to dry
+- [ ] bike maintence
+	- [ ] replace cable
+	- [ ] grind down rear ring
+	- [ ] new stem bolts
+- [ ] charge all electronics
+	- [ ] watch
+	- [ ] battery
+	- [ ] wahoo
+	- [ ] phone
+	- [ ] light
+	- [ ] garmin
+- [ ] finish website
+	- [ ] get it working, and up
+- [ ] setup garmin subscription
+- [ ] place to stay in chch
+- [ ] supplements ready
+- [ ] med kit prepared
+	- [ ] tylonol
+	- [ ] 
+- [ ] new sole for tire shoes
+- [ ] refill castile soap
+- [ ] fill spice kit
+- [ ] 
+
+- [ ] pack everything
+
+
+REI/Purchases:
+- [ ] chain lube (absolute dry)
+- [ ] return sleeping pad?
+- [ ] new sawyer filter
+- [ ] deoderant native and small plastic container for it
+- [ ] camel back podium bottle (or one to fit the mud caps)
