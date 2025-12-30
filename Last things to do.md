@@ -1,6 +1,6 @@
-- [ ] log everything in the gear list
-	- [ ] then send to will
-	- [ ] inlcude prices for expensive items
+- [x] log everything in the gear list
+	- [x] then send to will
+	- [x] inlcude prices for expensive items
 - [ ] Wash Cloths
 	- [ ] wash down stuff
 		- using tide and zum detergent in the sink in the art room
@@ -12,6 +12,7 @@
 	- [ ] replace cable
 	- [ ] grind down rear ring
 	- [ ] new stem bolts
+	- [ ] place the tag in the frame with the foam in one of the sewing boxes
 - [ ] charge all electronics
 	- [ ] watch
 	- [ ] battery
@@ -23,6 +24,7 @@
 	- [ ] get it working, and up
 - [ ] setup garmin subscription
 - [ ] place to stay in chch
+	- [ ] nova tell something will knows
 - [ ] supplements ready
 - [ ] med kit prepared
 	- [ ] tylonol
