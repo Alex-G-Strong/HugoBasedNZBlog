@@ -6,3 +6,9 @@ theme = 'PaperMod'
 [params]
     defaultTheme = "auto" # automatically switches between dark/light mode
     showCodeCopyButtons = true
+
+[imaging]
+  # Default JPEG quality
+  quality = 75
+  # Re-orient photos based on EXIF data (fixes sideways phone photos)
+  resampleFilter = "CatmullRom"
