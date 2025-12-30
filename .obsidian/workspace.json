@@ -230,6 +230,9 @@
   },
   "active": "26d1eeaa8bf65464",
   "lastOpenFiles": [
+    "layouts/shortcodes/img.html",
+    "layouts/shortcodes",
+    "layouts",
     "Last things to do.md",
     "Initial Gear List.md",
     "Templates/Image Inserter - Short Code Processor.md",
