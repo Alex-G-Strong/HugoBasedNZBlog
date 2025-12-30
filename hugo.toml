@@ -1,4 +1,4 @@
-baseURL = 'https://Alex-G-Strong.github.io/HugoBasedNZBlog/'
+baseURL = 'https://www.alexstrong.design/'
 languageCode = 'en-us'
 title = 'My NZ Blog'
 theme = 'PaperMod'
