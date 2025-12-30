@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Testing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -258,6 +259,7 @@
   "active": "5bcdc5e5fde0f55d",
   "lastOpenFiles": [
     "content/posts/Newsletter test post/index.md",
+    "content/posts/Austin test post/index.md",
     "content/posts/Newsletter test post",
     "Things to do for website navigability.md",
     "layouts/shortcodes/newsletter",
