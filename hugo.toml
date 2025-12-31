@@ -5,6 +5,32 @@ theme = 'PaperMod'
 canonifyURLs = true
 relativeURLs = true
 
+[params.homeInfoParams]
+    Title = "Welcome to The Big Walkabout"
+    Content = """
+I'm bikepacking New Zealand.
+
+Check out my [latest posts](/posts) or [subscribe](/subscribe) to get updates in your inbox.
+"""
+
+[[menu.main]]
+    identifier = "posts"
+    name = "Blog"
+    url = "/posts/"
+    weight = 10
+
+[[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 20
+
+[[menu.main]]
+    identifier = "subscribe"
+    name = "Newsletter"
+    url = "/subscribe/"
+    weight = 30
+
 [params]
     defaultTheme = "auto" # automatically switches between dark/light mode
     showCodeCopyButtons = true
@@ -15,9 +41,17 @@ relativeURLs = true
   # Re-orient photos based on EXIF data (fixes sideways phone photos)
   resampleFilter = "CatmullRom"
 
+[params]
+    # This specifically puts icons in the top bar
+    socialInHeader = true 
+
+[[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
 [[params.socialIcons]]
     name = "email"
-    url = "https://buttondown.email/yourusername"
+    url = "https://buttondown.email/AlexStrong"
 
 [rss]
   # This ensures the full text is available for Buttondown to grab
