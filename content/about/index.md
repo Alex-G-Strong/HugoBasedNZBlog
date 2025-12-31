@@ -27,9 +27,11 @@ I'm a photographer and storyteller currently traversing the landscapes of New Ze
 
 ### The Gear
 
+A Specialized Crux, setup for bike packing. 
 
-### Why "The Big Walkabout"?
+I made half the bags myself.
 
+Am I pushing it a bit on the weight limit, but hopefully it works out!
 
 ---
 **Want to stay in touch?**
