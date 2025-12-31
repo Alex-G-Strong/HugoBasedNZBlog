@@ -50,13 +50,11 @@ I study product design (called Design) at Stanford university, and am also perus
 
 ## So What is a Walkabout?
 
-I called it the big Walkabout. Why?
-
-In the Aboriginal Australian meaning, it is a wander away from the white society to go live traditionally in the bush. 
+In the Aboriginal Australian[^1] meaning, it is a wander away from the white society to go live traditionally in the bush.
 
 I am not Aboriginal Australian (I am American from that countries south west), nor am I going to intentionally live away from "front country" society. But I will be going on a grand adventure to "go and see", and live in a way different than my usual.
 
-To me, a walkabout is the kind of adventuring that sweeps you up with it. You go and put yourself into a position to make  
+To me, a Walkabout is the kind of adventuring that sweeps you up with it. You go and put yourself into a position to make  
 
 ## Convinced?
 
@@ -67,9 +65,8 @@ Subscribe to this blog here:
 My thoughts, delivered to you directly.
 
 
-
 ## Footnotes:
 
 Of course I am footnotes guy. I LOVE my footnotes.
 
-`*` Technically, a Walkabout, in the strict sense, is not kiwi at all, but rather Aboriginal Australian. There exists a very large difference between Kiwi's and Aussies (and Aboriginal of Australia and the Māori of New Zealand), but it seems from some Google-Fu that no equivalent to the "walkabout" exists in NZ slang, nor could I think of one in my own US slang. So for now, and likely forever, this will be my Big Walkabout.
+[^1]: Technically, a Walkabout, in the strict sense, is not kiwi at all, but rather Aboriginal Australian. There exists a very large difference between Kiwi's and Aussies (as well as the Aboriginal of Australia and the Māori of New Zealand), but it seems from some Google-Fu that no equivalent to the "walkabout" exists in NZ slang, nor could I think of one in my own US slang. So for now, and likely forever, this will be my Big Walkabout.
