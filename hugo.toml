@@ -18,9 +18,6 @@ relativeURLs = true
     keywords = ["New Zealand", "Bikepacking", "Photography", "Te Araroa", "Alex Strong", "Travel Blog", "Alex Strong Design"]
     author = "Alex Strong"
 
-    # Explicitly set this as a blank list to satisfy th>
-    images = []
-
     # FAVICONS
     [params.assets]
       favicon = "favicon.ico"
