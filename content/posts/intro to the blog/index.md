@@ -6,7 +6,6 @@ description:
 tags:
 categories:
   - Logistics
-cover:
 ---
 Welcome!
 
