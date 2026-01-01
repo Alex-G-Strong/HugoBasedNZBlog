@@ -10,10 +10,9 @@ categories:
   - Thoughts
 cover:
 ---
+0400 is a groggy time to be waking up and headed to the airport. Excitement - or was it anxiety? - mixed with a handful of fatigue, and a pinch of serenity as I found myself driven to the airport.
 
 ![0400 at AUS](bagsataus.webp)
-
-0400 is a groggy time to be waking up and headed to the airport. Excitement - or was it anxiety? - mixed with a handful of fatigue, and a pinch of serenity as I found myself driven to the airport.
 
 In the car, a large grey box taking up almost the entire truck and back seat and a grey black duffel bag. The box carried my bike, broke into parts and packed in foam between two hardshells of plastic. In the bag, cloths, a helmet, sleeping bag and bad, and a pot. Together, these two bags will make up the entire contents of my life for the next 11 weeks. 
 
