@@ -9,6 +9,9 @@ tags:
 categories:
   - Thoughts
 cover:
+    image: "bagsataus.webp"
+    alt: "Bags at AUS airport"
+    relative: true # This is important for Page Bundles!
 ---
 0400 is a groggy time to be waking up and headed to the airport. Excitement - or was it anxiety? - mixed with a handful of fatigue, and a pinch of serenity as I found myself driven to the airport.
 
