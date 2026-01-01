@@ -36,14 +36,23 @@ With your friends watching, you walk to the edge one last time, turn around and 
 It is at this point, that the inexorable force takes full control - you have passed the event horizon.
 
 You watch from a first person perspective. You see your bare feet in the stone of the cliff edge, you feel your body lower and tense for the run.
+
 Step.
+
 Try as you might, you cannot stop.
+
 Step.
+
 And in a momentary flash of realization.
+
 Step.
+
 You finally realize that have been for a while.
+
 Step.
+
 Your mind goes blank.
+
 Step.
 
 Your toes curl around the edge. And you jump.
