@@ -5,6 +5,10 @@ theme = 'PaperMod'
 canonifyURLs = true
 relativeURLs = true
 
+[params]
+    # Explicitly set this as a blank list to satisfy the OpenGraph function
+    images = []
+
 # SEO for web crawling
 [sitemap]
   changefreq = "weekly"
