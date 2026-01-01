@@ -91,3 +91,10 @@ Check out my [latest posts](/posts) or [subscribe](/subscribe) to get updates in
 # RSS SETTINGS
 [rss]
     fullContent = true
+
+# FOR FIXING AN IMAGE BUG
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+

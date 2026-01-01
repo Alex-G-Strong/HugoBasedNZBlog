@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/event horizon/index.md",
+                "file": "content/posts/intro to the blog/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -197,7 +197,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/posts/event horizon/index.md",
+            "file": "content/posts/intro to the blog/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -256,8 +256,9 @@
   },
   "active": "071c1ba54379d7d5",
   "lastOpenFiles": [
-    "2026-01-01.md",
+    "public/posts/event-horizon/bagsataus_hu_400b76d8c4682afd.webp",
     "content/posts/event horizon/index.md",
+    "2026-01-01.md",
     "public/poleta-photos/index.html",
     "public/poleta-photos/BoxOffice.jpg",
     "public/sitemap.xml",
