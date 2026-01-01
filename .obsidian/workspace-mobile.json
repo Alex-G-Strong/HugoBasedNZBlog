@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/intro to the blog/index.md",
+                "file": "content/posts/event horizon/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -197,7 +197,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/posts/intro to the blog/index.md",
+            "file": "content/posts/event horizon/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -256,6 +256,9 @@
   },
   "active": "071c1ba54379d7d5",
   "lastOpenFiles": [
+    "content/posts/event horizon/sunriseauslax.jpg",
+    "content/posts/event horizon/bagsataus.jpg",
+    "content/posts/intro to the blog/index.md",
     "public/posts/event-horizon/bagsataus_hu_b8a9359b63a73415.webp",
     "public/posts/event-horizon/bagsataus_hu_5142bebf9646fa61.webp",
     "public/posts/event-horizon/bagsataus_hu_400b76d8c4682afd.webp",
@@ -270,12 +273,9 @@
     "resources",
     "public/posts/event-horizon/sunriseauslax.webp",
     "public/posts/event-horizon/bagsataus.webp",
-    "content/posts/event horizon/bagsataus.jpg",
-    "content/posts/event horizon/sunriseauslax.jpg",
     "sunriseauslax.webp",
     "blog/Blog post 1.md",
     "bagsataus.webp",
-    "public/posts/event-horizon/SunriseInTheNewYear.jpg",
     "public/categories/thoughts/index.xml",
     "public/tags/longform/index.xml",
     "public/tags/philosophical/index.xml",
