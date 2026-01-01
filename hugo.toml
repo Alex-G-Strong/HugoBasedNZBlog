@@ -17,7 +17,20 @@ relativeURLs = true
     description = "Documenting a bikepacking journey through the landscapes of New Zealand."
     keywords = ["New Zealand", "Bikepacking", "Photography", "Te Araroa", "Alex Strong", "Travel Blog", "Alex Strong Design"]
     author = "Alex Strong"
-    
+
+    # FAVICONS
+    [params.assets]
+      favicon = "favicon.ico"
+      favicon16x16 = "favicon-16x16.png"
+      favicon32x32 = "favicon-32x32.png"
+      apple_touch_icon = "apple-touch-icon.png"
+      safari_pinned_tab = "safari-pinned-tab.svg"
+      android_chrome_192 = "android-chrome-192x192.png"
+      android_chrome_512 = "android-chrome-512x512.png"
+
+    # This ensures Android knows where to find your manifest
+    manifest = "site.webmanifest"
+
     # This helps Google show your face or a logo in search results
     [params.images]
         url = "profile.jpg"
