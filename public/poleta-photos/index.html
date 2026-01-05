@@ -148,27 +148,11 @@ The goal was to capture poleta - the place, and the people, and the magic that b
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); 
     gap: 15px; 
     margin: 20px 0;">
-<p><a href="Overview.jpg" 
-    
-   >
-   Overview
-</a>
-<a href="LunchAtTheOutcrop.jpg" 
-    
-   >
-   Lunch at the Outcrop
-</a>
-<a href="Notes.jpg" 
-    
-   >
-   Notes
-</a>
-<a href="NightWork.jpg" 
-    
-   >
-   Night Work
-</a>
-[Rear View(RearView.jpg)</p>
+<p><img alt="Overview" loading="lazy" src="../poleta-photos/Overview.jpg">
+<img alt="Lunch at the Outcrop" loading="lazy" src="../poleta-photos/LunchAtTheOutcrop.jpg">
+<img alt="Notes" loading="lazy" src="../poleta-photos/Notes.jpg">
+<img alt="Night Work" loading="lazy" src="../poleta-photos/NightWork.jpg">
+![Rear View(RearView.jpg)</p>
 </div>
 <style>
     .photo-grid img {
@@ -194,27 +178,11 @@ The goal was to capture poleta - the place, and the people, and the magic that b
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); 
     gap: 15px; 
     margin: 20px 0;">
-<p><a href="LightPainting.jpg" 
-    
-   >
-   Light Painting
-</a>
-<a href="DecentIntoTheField.jpg" 
-    
-   >
-   Decent into the Field
-</a>
-<a href="MapMaking.jpg" 
-    
-   >
-   Map Making
-</a>
-<a href="CampFire.jpg" 
-    
-   >
-   Camp Fire
-</a>
-[Box Office(BoxOffice.jpg)</p>
+<p><img alt="Light Painting" loading="lazy" src="../poleta-photos/LightPainting.jpg">
+<img alt="Decent into the Field" loading="lazy" src="../poleta-photos/DecentIntoTheField.jpg">
+<img alt="Map Making" loading="lazy" src="../poleta-photos/MapMaking.jpg">
+<img alt="Camp Fire" loading="lazy" src="../poleta-photos/CampFire.jpg">
+![Box Office(BoxOffice.jpg)</p>
 </div>
 <style>
     .photo-grid img {
@@ -326,6 +294,53 @@ The goal was to capture poleta - the place, and the people, and the magic that b
         }
     })
 
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
 </script>
 </body>
 

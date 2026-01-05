@@ -6,13 +6,20 @@
     <description>Recent content in Posts on The Big Walkabout</description>
     <image>
       <title>The Big Walkabout</title>
-      <url>http://localhost:1313/</url>
-      <link>http://localhost:1313/</link>
+      <url>http://localhost:1313/profile.jpg</url>
+      <link>http://localhost:1313/profile.jpg</link>
     </image>
     <generator>Hugo -- 0.153.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disorientation</title>
+      <link>http://localhost:1313/posts/disorientation/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/disorientation/</guid>
+      <description>How landing in a new place feels like a spin.</description>
+    </item>
     <item>
       <title>The Event Horizon</title>
       <link>http://localhost:1313/posts/event-horizon/</link>
