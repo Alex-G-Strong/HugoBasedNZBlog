@@ -46,7 +46,7 @@ What would they do? Confiscate the items? Pull me aside and ask me where, exactl
 
 
 Getting close to spiraling off into unrecoverable territory, and with no one else to provide any dampening, the executive functioning self grabbed the reins,
-"Woahhh, there" it said, "likely the worst that will happen is they get confiscated, and you can continue. Things are going to be fine[^3]."
+"Woahhh, there" it said, "likely the worst that will happen is they get confiscated, and you can continue. Things are going to be fine[^2]."
 
 
 I que-ed and eventually arrived at the front of the line, and, clearing by dry throat, told the customs agent, as clearly as I could that I had coconut oil and chili flakes.
@@ -70,7 +70,7 @@ This was an off-putting moment for me. I had, in fact, been thinking a lot about
 I am sure in filling out the form I must have missed something - I made too many mistakes for carelessness to be ruled out as a cause - but I did try my best to ensure transparency.
 But, apparently all in vain. It felt that I was wasting the guys time, not that I was doing my best to ensure the requested transparency.
 
-The reader may admonish me saying, "relax Alex, it's just a customs official. Plus, you did exactly what you set out to do - make sure they knew you were carrying some food." Dear reader, you are absolutely correct.
+The reader may admonish me saying, "relax Alex, it's just a customs official. Plus, you did exactly what you set out to do - make sure they knew you were carrying some food." Dear reader, you are absolutely correct[^3].
 And at the same time, the moment stuck with me. It highlighted for me that I did not know how to apply my effort to get the outcome I wanted, and more troubling, that I wasn't even sure what outcome I even wanted in the first place.
 
 
@@ -108,4 +108,4 @@ Happy trails! More to come. Alex.
 
 [^2]: Having the flakes confiscated would suck. I collected the chili flakes from wild growing Christmas Light pepper plants (known better as Chili Pequin) and processed the shockingly hot peppers into flakes for use later. The spice density is unmatched. Their loss would have been unfortunate, and they could not be matched 1:1 in NZ.
 
-[^3]: Maybe I should have taken the hint too - Alex, your jetlagged, regardless of how you feel about it. Go to sleep, and try better next time.
+[^3]: Maybe also adding that I should have taken the hint - Alex, your jetlagged, regardless of how you feel about it. Go to sleep, and try better next time.
