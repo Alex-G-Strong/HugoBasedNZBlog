@@ -46,7 +46,7 @@ What would they do? Confiscate the items? Pull me aside and ask me where, exactl
 
 
 Getting close to spiraling off into unrecoverable territory, and with no one else to provide any dampening, the executive functioning self grabbed the reins,
-"Woahhh, there" it said, "likely the worst that will happen is they get confiscated, and you can continue. Things are going to be fine[^2]."
+"Woahhh, there" it said, "likely the worst that will happen is they get confiscated, and you can continue. Things are going to be fine[^3]."
 
 
 I que-ed and eventually arrived at the front of the line, and, clearing by dry throat, told the customs agent, as clearly as I could that I had coconut oil and chili flakes.
@@ -107,3 +107,5 @@ Happy trails! More to come. Alex.
 [^1]: Though, it is not like I was required to write down all the things I was bringing, just flag all the major categories I had with me.
 
 [^2]: Having the flakes confiscated would suck. I collected the chili flakes from wild growing Christmas Light pepper plants (known better as Chili Pequin) and processed the shockingly hot peppers into flakes for use later. The spice density is unmatched. Their loss would have been unfortunate, and they could not be matched 1:1 in NZ.
+
+[^3]: Maybe I should have taken the hint too - Alex, your jetlagged, regardless of how you feel about it. Go to sleep, and try better next time.

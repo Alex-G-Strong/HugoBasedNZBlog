@@ -141,7 +141,7 @@
               "state": {
                 "file": "content/posts/disorientation/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "index"
